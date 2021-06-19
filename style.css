@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    margin:10px;
+}
+
+#B1{
+    background-color: beige;
+}
+#B2{
+    background-color: blue;
+}
+#B3{
+    background-color: brown;
+}
+
+#B1{
+    font-size: large;
+}
